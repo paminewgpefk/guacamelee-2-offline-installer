@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Head back to the Mexiverse in this long-awaited sequel to the smash hit Guacamelee! Uppercut your way to victory across stunning new hand-crafted levels. Featuring a dense and colorful world, new luchador moves, sassy new bosses, twice the enemies, and 300% more chickens!
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **Processor** | 2 Ghz+ | Intel Core i5 / Apple M1 |
+| **Memory** | 1 GB RAM | 1 GB RAM |
+| **Graphics** | Shader Model 5.0 (DX11 support required), 2 GB availabl… | Metal-capable GPU |
+| **DirectX** | Version 11 | Version 11 |
+| **Storage** | 2 GB available space | 2 GB available space |
+| **OS *** | Windows 10, 8, 7 | Windows 10, 8, 7 |
+| **Additional Notes** | Supports Xbox 360 Controller and other XInput-compatibl… | Supports Xbox 360 Controller and other XInput-compatibl… |
 
 ---
 
